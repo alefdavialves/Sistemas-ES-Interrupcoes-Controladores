@@ -1,2 +1,2 @@
 # Sistemas-ES-Interrupcoes-Controladores
-Trabalho da matéria de Arquitetura de Computadores, utilizando simulação com arduino para representar os métodos polling e interupção
+Trabalho acadêmico de Arquitetura de Computadores, desenvolvido com simulação no Wokwi para comparar polling e interrupções de hardware utilizando Arduino Uno.
